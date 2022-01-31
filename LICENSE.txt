@@ -1,0 +1,17 @@
+Included in this folder are all documentation, sources, and related source projects for the Atari Jaguar Skunkboard project. If anything is missing, it's either proprietary (ie: Xilinx project sources, or jaguar software like AVP and Doom used by the test scripts), or it doesn't exist outside of my own and KSkunk's heads.
+
+It was an interesting and educational project, but I'm not gaining anything by being the sole support anymore, and I'm about done with messing around with Jaguar. I never got a game done like I wanted to, but I suppose I probably learned more doing this project anyway.
+
+The hardware design and initial software concepts was entirely KSkunk's invention. It was not intended to go public - that was my doing. In doing so I was also responsible for the release versions of all the software, the testing, the 'public relations' and the support. For revision 1, I was also responsible for the manufacture. KSkunk handled Rev 2 manufacture (bless him!), and GOAT Games handled Rev 3.
+
+Educationally, this was the first time I'd ever had anything manufactured. It was also the first time I learned about the world of obsolete and counterfeit electronics components, not something I'd like to deal with again. While not the first time I've dealt with the public in a sales situation, that is also something I'd like to avoid dealing with again (that's why GOAT took care of Rev 3 for us ;) ). Still, despite the vocal minority, the vast majority of people were a pleasure to deal with.
+
+I have stripped names and order information from what's in here. That's personal information and does not need to be released. If you stumble upon anything I missed, let me know, eh?
+
+The board runs were 50 boards for Rev 1, 200 for Rev 2, and 200 for Rev 3. The actual yields were lower, and were about 35 boards from Rev 1, 185 for Rev 2, and 198 for Rev 3. (Some boards may have been repaired and sold after those numbers). So the total in the wild is over 400 boards. 
+
+Anyway, this package is hereby released to Public Domain on this date 8/12/2012 - more than 7 years after I first learned of the device myself. Do with it what you will. Though if you do profit from it, I'd love to see whatever you created. ;)
+
+To that end, NO SUPPORT is offered with this package. If you don't understand something, there's every chance you should not be messing with it. :) If you reflash your BIOS and brick your board, you'll have to find someone who can unbrick it for you. If I have to do it, I'll charge you $20. ;)
+
+-Tursi
