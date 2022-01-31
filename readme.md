@@ -8,7 +8,7 @@ Also check out the independent projects on Github:
 
 [https://github.com/tursilion/skunk_butcher](https://github.com/tursilion/skunk_butcher) - CPLD code\
 [https://github.com/tursilion/skunk_jcp](https://github.com/tursilion/skunk_jcp) - JCP loader\
-[https://github.com/tursilion/skunk_pcbs][(https://github.com/tursilion/skunk_pcbs) - PCB files for manufacture\
+[https://github.com/tursilion/skunk_pcbs](https://github.com/tursilion/skunk_pcbs) - PCB files for manufacture\
 [https://github.com/tursilion/skunk_bios](https://github.com/tursilion/skunk_bios) - BIOS source
 
 These files are all PUBLIC DOMAIN.
